@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Logs
+*.log
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# Data
+*.csv
+*.tsv
+*.zip
+*.gz
+*.h5
+*.pkl
+*.joblib
+
+# Large model or output files
+models/
+outputs/
+checkpoints/
